@@ -1,3 +1,3 @@
 # Student Portfolio
 
-Hey! Welcome to my portfolio very soon.
+Hey! Welcome to my portfolio practice page.
