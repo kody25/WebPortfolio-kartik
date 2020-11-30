@@ -1,3 +1,3 @@
-# Student Portfolio
+# Student Portfolio Component library.
 
-Hey! Welcome to my portfolio practice page.
+Hey! Welcome to my component library for portfolio.
